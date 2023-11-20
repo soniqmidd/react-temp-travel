@@ -51,7 +51,7 @@ function App() {
                 </ul>
               </div>
 
-              <div class="forecast-row">
+              <div class="row">
                 <div class="col-6">
                   <div class="outdoorfix weather-temperature">
                     <img
@@ -144,7 +144,7 @@ function App() {
         <footer>
           <small>
             <a
-              href="https://github.com/soniqmidd/TimeTravel"
+              href="https://github.com/soniqmidd/react-temp-travel"
               target="_blank"
               rel="noreferrer"
             >
